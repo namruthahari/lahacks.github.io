@@ -21,6 +21,8 @@ We learnt to manage time and plan out sections each of us will work on despite b
 ## What's next for DonateForCause
 Due to the time constraint of the hackathon, our website was similar to a rough draft of an essay. We can certainly start by improving in many areas to make the website more authentic, smooth and user-friendly.
 
-##TRY IT OUT HERE: https://namruthahari.github.io/lahacks.github.io/
+## TRY IT OUT HERE: 
+https://namruthahari.github.io/lahacks.github.io/
 
-## Video about this project : https://www.youtube.com/watch?v=jBloToLxDv0
+## Video about this project : 
+https://www.youtube.com/watch?v=jBloToLxDv0
