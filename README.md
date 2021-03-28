@@ -1,4 +1,5 @@
 # DonateForCause
+Do you want to give away your unused clothes, uneaten food, or contribute a small gift to children who need essentials? We have a website where you can do all that and earn points for an awesome prize! DonateForCause makes donating easy and fun by providing guidelines for first timers and participation in an incentive program to keep you wanting to donate more! You’ll feel proud donating to a cause and eager for prizes. DonateForCause only gives feel-good energy!
 
 ## Inspiration
 We were inspired to build a donation website because Covid-19 has been difficult globally for all of us. Some of us are impacted more than others and our mission is to alleviate some strain from families by bringing them essential resources. 
